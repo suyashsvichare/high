@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Resume</title>
+<style>
+body {
+font-family: Arial, sans-
+serif;
+background-color:
+#f5f5f5;
+}
+.container {
+max-width: 800px;
+margin: 0 auto;
+background-color: #fff;
+padding: 20px;
+box-shadow: 0 0 10px
+rgba(0, 0, 0, 0.2);
+}
+h1 {
+color: #333;
+}
+h2 {
+color: #555;
+}
+p {
+margin: 0;
+}
+.section {
+margin: 20px 0;
+}
+.section-header {
+border-bottom: 2px solid
+#3498db;
+padding-bottom: 10px;
+}
+.section-title {
+font-weight: bold;
+}
+.section-content {
+margin-top: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>John Doe</h1>
+<p>Web Developer</p>
+<div class="section">
+<div class="section-
+header">
+<h2 class="section-
+title">Contact
+Information</h2>
+</div>
+<div class="section-
+content">
+<p>Email:
+john.doe@example.com</p>
+<p>Phone: (123) 456-
+7890</p>
+<p>
+LinkedIn:
+<a
+href="https://www.linkedin.co
+m/in/johndoe/"
+>linkedin.com/in/johndoe</a
+>
+</p>
+</div>
+</div>
+<div class="section">
+<div class="section-
+header">
+<h2 class="section-
+title">Summary</h2>
+</div>
+<div class="section-
+content">
+<p>
+An experienced web
+developer with a strong
+background in HTML, CSS,
+and JavaScript.
+Skilled in creating responsive
+and user-friendly web
+applications. Seeking
+new opportunities to work on
+exciting web
+projects.
+</p>
+</div>
+</div>
+<div class="section">
+<div class="section-
+header">
+<h2 class="section-
+title">Education</h2>
+</div>
+<div class="section-
+content">
+<p><strong>University
+of Web
+Development</strong></p>
+<p><em>Bachelor of
+Science in Web
+Development</em></p>
+<p>Graduation Year:
+2020</p>
+</div>
+</div>
+<div class="section">
+<div class="section-
+header">
+<h2 class="section-
+title">Work Experience</h2>
+</div>
+<div class="section-
+content">
+<p><strong>Front-End
+Developer</strong></p>
+<p><em>Tech
+Solutions Inc.</em></p>
+<p>January 2019 -
+Present</p>
+<ul>
+<li>
+Developed and
+maintained responsive
+websites using HTML, CSS,
+and
+JavaScript.
+</li>
+<li>
+Collaborated with
+the design team to ensure the
+best user
+experience.
+</li>
+</ul>
+</div>
+</div>
+<div class="section">
+<div class="section-
+header">
+<h2 class="section-
+title">Skills</h2>
+</div>
+<div class="section-
+content">
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JavaScript</li>
+<li>Responsive Web
+Design</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>
